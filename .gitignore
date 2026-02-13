@@ -1,0 +1,25 @@
+# Frontend build artifacts and deps
+frontend/node_modules
+frontend/build
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# OS/editor noise
+.DS_Store
+*.log
+
+# Environment files
+*.env
+*.env.local
+
+# Logs
+logs/
+*.log
